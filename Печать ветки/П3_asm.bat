@@ -1,0 +1,1 @@
+autocode_m20 -e5 -i è3.a20 -o è3.m20 -l è3.l20
