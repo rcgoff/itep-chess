@@ -1,0 +1,1 @@
+autocode_m20 -e5 -i "Печать хода.a20" -o printpass.m20 -l "Печать хода.l20"
