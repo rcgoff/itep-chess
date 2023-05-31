@@ -1,1 +1,1 @@
-m20 printpass.simh
+m20 Печать_хода_test.simh
